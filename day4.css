@@ -1,0 +1,47 @@
+.image{
+    width: 200px;
+    border-radius: 10px;
+    
+    
+}
+.main{
+    text-align: left;
+    border: 2px solid red;
+    height: 330px;
+    width: 200px;
+    text-align:center;
+    margin: 10px;
+    padding: 10px;
+}
+.Main{
+    text-align: center;
+    border: 2px solid red;
+    height: 330px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    
+
+}
+body{
+    display: flex;
+    flex-direction: row;
+    
+
+
+}
+.image1{
+    border-radius: 10px;
+    width: 200px;
+    
+}
+.MAIN{
+    border: 2px solid red;
+    height: 330px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+   
+    
+}
