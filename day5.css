@@ -1,0 +1,38 @@
+.wrapper{
+    height: 50px;
+    width: 300px;
+    border: 2px solid red;
+    position: absolute;
+
+
+}
+.box{
+    position: relative;
+    border:2px solid black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    /* top:100%; */
+    /* bottom: 100%; */
+    top: -60px;
+    left: 20px;
+    background-color: #454545;
+
+    
+}
+.box img{
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+
+}
+.wrapper img{
+    width: 200%;
+    height: 90%;
+    display: block;
+    object-fit: cover;
+    object-position:center ;
+}
